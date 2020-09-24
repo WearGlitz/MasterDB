@@ -1,0 +1,21 @@
+{
+  "name": "masterdb.",
+  "version": "1.0.0",
+  "description": "Una npm para crear y usar base de datos haciendo mas facil el desarrollo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "homepage": "https://masterdb.xyz/document",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WearGlitz/masterdb"
+  },
+  "keywords": [],
+  "author": "WearGlitz",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.4",
+    "sqlite3": "^5.0.0"
+  }
+}
